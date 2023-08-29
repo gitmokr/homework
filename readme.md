@@ -1,5 +1,4 @@
 Our first repo
 
-Some text
 
-some ttt
+we added funcy description
